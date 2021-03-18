@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yixin567
-- 👀 I’m interested in data analytics,visualisation and machine learning using different methodology especially in the financial sector. I am also passionate about UI/UX designing to provide a pleasant and smooth interface for users to use 
+- 👀 I’m interested in data analytics,visualisation and machine learning using different methodology especially in the financial sector. I am also keen in UI/UX designing to provide a pleasant and smooth interface for users to use as well as using different frameworks to come up with frontend designs 
 - 🌱 I’m currently an undergraduate studying in NUS School of computing under Business Analytics. 
 - 💞️ I’m looking to collaborate on machine learning,data analysis projects
 - 📫 I can be contacted through yixintangg@gmail.com
